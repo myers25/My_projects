@@ -11,6 +11,7 @@ else:
     name2 = input("What is your full name?")
     print(f"Hello {name2}, you are now a friend of the family!")
 
+# Ask the user the following questions
 question = input("Where are you from? ")
 print("Hello " + name + " from " + question)
 
